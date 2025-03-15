@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyog Ale Magar</h1>
 <h3 align="center">Hello world!!</h3>
 
-- 💬 Ask me about **Dev**
+
 
 - 📫 How to reach me **alemagarsuyog@gmail.com**
 
