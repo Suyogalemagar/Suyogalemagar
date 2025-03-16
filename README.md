@@ -2,11 +2,11 @@
 <h3 align="center">Hello world!!</h3>
 
 
--🎓 Pursuing a Bachelor's degree in Computer Science
+- 🎓 Pursuing a Bachelor's degree in Computer Science
 - 📫 How to reach me **alemagarsuyog@gmail.com**
   
-Projects:
-🏋️ Gym Management System – A web app for managing gym memberships and trainers
+### 🏆 Projects
+- 🏋️ **Gym Management System** – A web-based application for managing gym memberships, trainers, and classes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
