@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyog Ale Magar</h1>  
-<h3 align="center">Aspiring Software Developer | CS Undergraduate | Tech Enthusiast</h3>
+<h3 align="center">UI/UX| CS Undergraduate | Aspiring Software Developer | Tech Enthusiast</h3>
 
 ---
 
